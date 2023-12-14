@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 
 const ButtonPhoneSize = () => {
   const [togglebutton, setToggleButtton] = useState(false);

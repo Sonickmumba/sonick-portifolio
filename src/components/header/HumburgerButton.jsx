@@ -9,7 +9,7 @@ const HumburgerButton = () => {
   };
 
   return (
-    <>
+    <div className="container flex flex-wrap items-center justify-between mx-auto md:hidden">
       <button
         id="hamburger-button"
         className="fixed top-6 z-50 right-6 block lg:hidden  focus:outline-none"
@@ -24,7 +24,7 @@ const HumburgerButton = () => {
         </svg>
       </button>
       {clickHamburger && <Overlay onResetHamburger={resetHamburgerStatus}/>}
-    </>
+    </div>
   );
 };
 

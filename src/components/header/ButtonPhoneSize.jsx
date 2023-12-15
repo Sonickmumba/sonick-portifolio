@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 const ButtonPhoneSize = () => {
-  const [togglebutton, setToggleButtton] = useState(false);
+  const [togglebutton, setToggleButton] = useState(false);
 
   return (
     <div data-dial-init="true" className="fixed top-6 left-6 group md:hidden">
@@ -11,7 +11,7 @@ const ButtonPhoneSize = () => {
           aria-controls="speed-dial-menu-top-right"
           aria-expanded="false"
           className="flex items-center justify-center text-white bg-blue-700 rounded-full w-10 h-10 hover:bg-blue-800 dark:bg-blue-600 dark:hover:bg-blue-700 focus:ring-4 focus:ring-blue-300 focus:outline-none dark:focus:ring-blue-800"
-          onClick={() => setToggleButtton((current) => !current)}
+          onClick={() => setToggleButton((current) => !current)}
         >
           <svg
             aria-hidden="true"

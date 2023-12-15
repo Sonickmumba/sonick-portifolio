@@ -35,5 +35,3 @@ const Menu = () => {
 }
 
 export default Menu
-
-// xxxs:hidden xxs:hidden xs:hidden sm:hidden

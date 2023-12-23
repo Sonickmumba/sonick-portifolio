@@ -1,8 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Roboto:wght@300;400;500;700&display=swap");
+
 
 body {
   box-sizing: border-box;
-  background-color: #0f1624;
+  background-color: #fff;
   cursor: default;
   font-size: 1.6rem;
   font-family: "Poppins", sans-serif;
@@ -10,6 +12,6 @@ body {
   padding: 0;
 }
 
-/* #menu {
-  display: none;
+/* .header {
+  font-size: 5.5em;
 } */

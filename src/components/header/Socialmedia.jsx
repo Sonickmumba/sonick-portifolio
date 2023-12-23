@@ -35,11 +35,11 @@ const Socialmedia = () => {
           >
             <span className="text-3xl rounded-full text-white dark:text-white">
               <svg
-                stroke="currentColor"
-                fill="currentColor"
+                stroke=""
+                fill=""
                 strokeWidth="0"
                 viewBox="0 0 448 512"
-                className="dark:text-blue-600"
+                className="bg-sky-600"
                 height="1em"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"

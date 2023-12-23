@@ -8,10 +8,9 @@ function App() {
 
   return (
     <>
-      <div>
+      {/* <div> */}
         <Header />
-        <h1>Vite + React</h1>
-      </div>
+      {/* </div> */}
     </>
   )
 }

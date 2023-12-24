@@ -1,6 +1,8 @@
 // import React from "react";
 // import { Button } from "@material-tailwind/react";
 
+import AnimatedSVG from "./AnimatedSVG";
+
 const Home = () => {
   return (
     <>
@@ -38,6 +40,7 @@ const Home = () => {
             </button> */}
           </section>
         </div>
+        <AnimatedSVG />
 
       </div>
     </>

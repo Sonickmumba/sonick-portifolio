@@ -100,4 +100,10 @@ body {
 }
 
 /* moving lines */
+.svg-container {
+  width: 402px; /* Adjust the width and height based on your SVG viewBox */
+  height: 402px;
+  margin: 50px;
+}
+
 

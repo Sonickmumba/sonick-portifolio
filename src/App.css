@@ -79,6 +79,10 @@ body {
   color: blue;
 }
 
+#download-icon {
+  margin-left: 8px;
+}
+
 .btn-see-work {
   height: 100px;
 }

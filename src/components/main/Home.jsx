@@ -11,7 +11,7 @@ const Home = () => {
           <section className="introduction">
             <h2 className="my-name">It&apos;s me👋, </h2>
             <h2 className="my-name">Sonick Mumba</h2>
-            <h2 className="my-ability text-gray-400 text-2xl pb-4 animate__animated animate__slideInLeft animate__slow">
+            <h2 className="my-ability text-gray-400 text-2xl pb-4 text-pretty animate__animated animate__slideInLeft animate__slow">
               A Full Stack Software Developer, turning ideas into real life
               products is my calling!
             </h2>

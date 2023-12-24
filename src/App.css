@@ -40,7 +40,12 @@ body {
 }
 
 .my-name {
-  font-size: 18px;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 40px;
+  margin-bottom: 16px;
+  /* padding: 38px 0 16px; */
+  width: max-content;
   background-image: linear-gradient(-255deg, #cf3e95 0%, #103a7a 29%, #4019cc 67%, #b38b1d 100%);
   background-size: auto auto;
   background-clip: border-box;
@@ -100,10 +105,6 @@ body {
 }
 
 /* moving lines */
-.svg-container {
-  width: 402px; /* Adjust the width and height based on your SVG viewBox */
-  height: 402px;
-  margin: 50px;
-}
+
 
 

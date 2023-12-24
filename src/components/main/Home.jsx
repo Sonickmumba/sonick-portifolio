@@ -1,4 +1,5 @@
-import React from "react";
+// import React from "react";
+// import { Button } from "@material-tailwind/react";
 
 const Home = () => {
   return (
@@ -18,7 +19,9 @@ const Home = () => {
                   My work
                 </a>
               </button>
-              <a href="" className="download">DownLoad CV<i class="fa-solid fa-download"></i></a>
+              <a href="" className="download">
+                DownLoad CV<i class="fa-solid fa-download"></i>
+              </a>
             </div>
             {/* <button className="btn-see-work">
               <a className="see-my-work" href="#portfolio">

@@ -20,6 +20,9 @@ body {
   margin-top: 5em;
   border-collapse: collapse;
   padding: 0.6em;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
 .top-section {

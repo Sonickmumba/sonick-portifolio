@@ -12,12 +12,19 @@ const Home = () => {
               A Full Stack Software Developer, turning ideas into real life
               products is my calling!
             </h2>
-            <br></br>
-            <button>
-              <a className="nav-link" href="#portfolio">
+            <div className="see-work-download-cv">
+              <button className="btn-see-work">
+                <a className="see-my-work" href="#portfolio">
+                  My work
+                </a>
+              </button>
+              <a href="" className="download">DownLoad CV<i class="fa-solid fa-download"></i></a>
+            </div>
+            {/* <button className="btn-see-work">
+              <a className="see-my-work" href="#portfolio">
                 See my work
               </a>
-            </button>
+            </button> */}
           </section>
         </div>
       </div>

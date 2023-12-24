@@ -9,10 +9,8 @@ function App() {
 
   return (
     <>
-      {/* <div> */}
-        <Header />
-        <Home />
-      {/* </div> */}
+      <Header />
+      <Home />
     </>
   )
 }

@@ -20,7 +20,7 @@ const Home = () => {
                 </a>
               </button>
               <a href="" className="download">
-                DownLoad CV<i class="fa-solid fa-download"></i>
+                Download CV<i className="fa-solid fa-download"></i>
               </a>
             </div>
             {/* <button className="btn-see-work">

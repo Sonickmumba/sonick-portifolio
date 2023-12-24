@@ -3,6 +3,7 @@
 // import viteLogo from '/vite.svg'
 import Header from './components/header/Header';
 import Home from './components/main/Home';
+import Project from './components/projects/Project';
 import './App.css'
 
 function App() {
@@ -10,7 +11,10 @@ function App() {
   return (
     <>
       <Header />
-      <Home />
+      <div className="now-header">
+        <Home />
+        <Project />
+      </div>
     </>
   )
 }

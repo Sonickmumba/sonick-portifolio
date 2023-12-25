@@ -1,5 +1,3 @@
-import React from "react";
-
 const About = () => {
   return (
     <section id="about" className="flex flex-row h-[25rem] xxxs:h-auto xxxs:flex-col-reverse xxs:h-auto xxs:flex-col-reverse xs:h-auto xs:flex-col-reverse justify-between xxxs:mx-auto xxxs:pl-1 xxs:mx-auto xxs:pl-1 xs:mx-auto sm:mx-auto xs:pl-1 sm:justify-between sm:items-center">

@@ -86,7 +86,6 @@ const Technology = () => {
               <h2 className="text-white font-bold text-lg">{techno.type}</h2>
             </div>
             <ul className="flex flex-col justify-start px-2 gap-y-2">
-              {/* List the technologies */}
               {techno.tech.map((t) => (
               <li key={uuidv4()} className="flex flex-row gap-x-4">
                 <span className="dark:text-white">
@@ -107,7 +106,6 @@ const Technology = () => {
                 </span>
               </li>
               ))}
-              {/* end of list of techologies */}
             </ul>
           </div>
         </div>

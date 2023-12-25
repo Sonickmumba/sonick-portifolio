@@ -5,7 +5,7 @@ const Project = () => {
     <section className="flex flex-col" id="projects">
       <div className="w-16 h-2 rounded-full bg-gradient-to-r from-violet-500 to-sky-500 sm:mt-10 sm:ml-2"></div>
       <h2 className="project">Projects</h2>
-      <div className="grid grid-cols-[repeat(auto-fill,minmax(18rem,1fr))] gap-x-8 gap-y-10 mb-8">
+      <div className="grid grid-cols-[repeat(auto-fill,minmax(18rem,1fr))] gap-x-8 gap-y-10">
         {/* card now */}
         {portfolioObjects.map((obj) => (
           <div key={obj.id} className="h-full shadow-xl rounded-lg bg-gray-800 dark:bg-gray-800 p-4 flex flex-col justify-center items-center cursor-pointer transform transition duration-700 ease-in-out hover:scale-[1.1]">

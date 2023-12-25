@@ -6,6 +6,7 @@ import Home from "./components/main/Home";
 import Project from "./components/projects/Project";
 import "./App.css";
 import Technology from "./components/technology/Technology";
+import About from "./components/about/About";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Home />
           <Project />
           <Technology />
+          <About />
         </div>
       </div>
     </>

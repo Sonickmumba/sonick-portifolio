@@ -9,7 +9,7 @@ const Project = () => {
         {/* card now */}
         {portfolioObjects.map((obj) => (
           <div key={obj.id} className="h-full shadow-xl rounded-lg bg-gray-800 dark:bg-gray-800 p-4 flex flex-col justify-center items-center cursor-pointer transform transition duration-700 ease-in-out hover:scale-[1.1]">
-          <img src="https://res.cloudinary.com/ujuzi/image/upload/v1670286381/Kevent/huntify_iw4jnf.png" alt="" />
+          <img src={obj.image} alt="" />
           <div className="px-2">
             <h3 className="xxxs:text-lg xxs:text-lg xs:text-xl sm:text-xl py-2 font-bold text-white">{obj.projectTitleDesktop}</h3>
             <p className="text-gray-400 xxxs:text-sm xxs:text-sm xs:text-sm sm:text-sm md:text-lg dark:text-slate-300">

@@ -50,8 +50,6 @@ const technologies = [
   },
 ];
 
-console.log(Object.keys(technologies[0])[1]);
-
 const Technology = () => {
   return (
     <section className="py-5" id="tech">
@@ -65,8 +63,6 @@ const Technology = () => {
       </p>
       <div className="grid grid-cols-[repeat(auto-fill,minmax(16rem,1fr))] gap-x-8 gap-y-10">
         {technologies.map((techno) => (
-
-        
         <div key={techno.id} className="h-full shadow-xl rounded-lg bg-slate-800 p-4 flex flex-row items-center dark:bg-gray-800">
           <div className="flex flex-col justify-start gap-4">
             <div className="flex flex-row items-center justify-start gap-4">

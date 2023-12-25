@@ -41,7 +41,7 @@ const portfolioObjects = [
     tags: ['HTML', 'Ruby on Rails', 'React'],
     description:
       'Vesper application for all lovers of cars. Let your car make money for you by listing it on our platform so others can view and rent.',
-    liveUrl: 'https://vesper-4yj8.onrender.com/',
+    liveUrl: 'https://vesper-one.vercel.app/',
     sourceUrl: 'https://github.com/Sonickmumba/vesper-frontend',
     image: './images/projects/do.jpg',
   },

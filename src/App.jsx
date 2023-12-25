@@ -5,7 +5,6 @@ import Header from "./components/header/Header";
 import Home from "./components/main/Home";
 import Project from "./components/projects/Project";
 import "./App.css";
-import Technology from "./components/technology/Technology";
 
 function App() {
   return (
@@ -15,7 +14,6 @@ function App() {
         <div className="now-header mx-auto xxxs:px-5 xxs:px-5 xs:px-5 sm:px-5 mt-10">
           <Home />
           <Project />
-          <Technology />
         </div>
       </div>
     </>

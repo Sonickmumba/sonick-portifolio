@@ -19,7 +19,7 @@ body {
   /* background-size: 100%; */
   margin-top: 5em;
   border-collapse: collapse;
-  padding: 0.6em;
+  /* padding: 1em; */
   display: flex;
   flex-direction: column;
   gap: 20px;

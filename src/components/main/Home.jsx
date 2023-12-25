@@ -25,7 +25,7 @@ const Home = () => {
               >
                 Hire me
               </button>
-              <a href="" className="download text-blue-600 cursor-pointer">
+              <a href="https://drive.google.com/uc?export=download&id=1Caejc92-UOxa6aq9qEpye_6jE2PFLJcM" className="download text-blue-600 cursor-pointer">
                 Download CV
                 <i className="fa-solid fa-download" id="download-icon"></i>
               </a>

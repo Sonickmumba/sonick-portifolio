@@ -5,7 +5,7 @@ const Technology = () => {
   return (
     <section className="py-5" id="tech">
       <div className="w-16 h-2 rounded-full bg-gradient-to-r from-violet-500 to-sky-500 mt-5"></div>
-      <h2 className="project">Technologies</h2>
+      <h2 className="project md:text-4xl lg:text-4xl xl:text-4xl">Technologies</h2>
       <p className="text-lg md:text-xl pb-14 text-gray-400 max-w-4xl xxxs:ml-2 xxs:ml-2 xs:ml-2 dark:text-gray-600">
         I have a wide range of skills in the field of web and mobile apps
         development. I have experience in building websites and mobile apps

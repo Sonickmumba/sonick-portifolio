@@ -4,7 +4,7 @@ const Project = () => {
   return (
     <section className="flex flex-col" id="projects">
       <div className="w-16 h-2 rounded-full bg-gradient-to-r from-violet-500 to-sky-500 sm:mt-10 sm:ml-2"></div>
-      <h2 className="project">Projects</h2>
+      <h2 className="project md:text-4xl lg:text-4xl xl:text-4xl">Projects</h2>
       <div className="grid grid-cols-[repeat(auto-fill,minmax(18rem,1fr))] gap-x-8 gap-y-10">
         {/* card now */}
         {portfolioObjects.map((obj) => (

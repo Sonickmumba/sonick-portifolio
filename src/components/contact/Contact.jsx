@@ -1,9 +1,9 @@
 const Contact = () => {
   return (
     <section className="w-full" id="contact">
-      <div className="flex flex-row justify-center items-center h-[40rem] dark:h-[50rem] gap-x-16 w-full dark:w-full xxxs:gap-y-10 mr-auto xxxs:flex-col xxxs:h-auto dark:xxxs:h-auto xxs:gap-y-10 xxs:flex-col xxs:h-auto xs:gap-y-10 xs:flex-col xs:h-auto">
+      <div className="flex md:flex-row justify-center items-center h-[40rem] dark:h-[50rem] gap-x-16 w-full dark:w-full xxxs:gap-y-10 mr-auto xxxs:flex-col xxxs:h-auto dark:xxxs:h-auto xxs:gap-y-10 xxs:flex-col xxs:h-auto xs:gap-y-10 xs:flex-col xs:h-auto">
         <div className="flex flex-col gap-4 w-[55%] xxxs:w-full xxs:w-full xs:w-full">
-          <h2 className="title2-dark">Contact me</h2>
+          <h2 className="title2-dark project md:text-4xl lg:text-4xl xl:text-4xl">Contact me</h2>
           <h3 className="text-lg text-white dark:text-gray-600 lg:text-2xl">
             Let&apos; get in touch
           </h3>
@@ -64,7 +64,7 @@ const Contact = () => {
           </ul>
         </div>
 
-        <div className="flex flex-col gap-4 w-[45%] xxxs:w-full xxs:w-full xs:w-full drop-shadow-2xl rounded-lg p-8 bg-gray-800">
+        <div className="flex flex-col gap-4 w-[45%] xxxs:w-full xxs:w-full xs:w-full drop-shadow-2xl rounded-lg p-8 bg-gray-800 md:w-4/5">
           <form action="" className="flex flex-col gap-6 dark:py-16">
             <input type="text" placeholder="First name" name="firstName" required className="w-full dark:w-[90%] dark:mx-auto dark:drop-shadow text-xl px-4 py-3 rounded-lg shadow-lg bg-white dark:bg-white text-gray-500 outline-none dark:text-gray-500 focus:outline-none focus:shadow-outline"/>
             <input type="text" placeholder="Last name" name="lastName" required className="w-full dark:w-[90%] dark:mx-auto dark:drop-shadow text-xl px-4 py-3 rounded-lg shadow-lg bg-white dark:bg-white text-gray-500 outline-none dark:text-gray-500 focus:outline-none focus:shadow-outline" />

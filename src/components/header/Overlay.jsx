@@ -14,7 +14,7 @@ const Overlay = ({onResetHamburger}) => {
       id="menu"
       className={`fixed z-50 top-0 left-0 w-full h-full flex justify-center ${overlay ? 'block' : "hidden"}`}
     >
-      <ul className={`flex w-full flex-col py-14 pl-8 mt-4 rounded-lg bg-gray-50 flex-row font-medium border-0 bg-gray-800 dark:border-gray-700 ${overlay ? 'block' : "hidden"}`}>
+      <ul className={`flex w-full flex-col py-14 pl-8 rounded-lg bg-gray-50 flex-row font-medium border-0 bg-gray-800 dark:border-gray-700 ${overlay ? 'block' : "hidden"}`}>
         <li>
           <a
             href="/#home"

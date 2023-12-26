@@ -2,9 +2,9 @@
 
 const AnimatedSVG = () => {
   return (
-    <div className="svg-container">
+    <div className="svg-container md:w-1/2">
       <svg
-        className="BgAnimation__svg"
+        className="BgAnimation__svg md:w-full md:m-auto"
         viewBox="0 0 602 602"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"

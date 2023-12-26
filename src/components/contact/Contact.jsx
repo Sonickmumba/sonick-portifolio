@@ -63,12 +63,13 @@ const Contact = () => {
             </li>
           </ul>
         </div>
-        <div className="flex flex-col gap-4 w-[45%] xxxs:w-full xxs:w-full xs:w-full dark:drop-shadow-2xl dark:rounded-lg dark:bg-gray-800">
+
+        <div className="flex flex-col gap-4 w-[45%] xxxs:w-full xxs:w-full xs:w-full dark:drop-shadow-2xl dark:rounded-lg p-8 bg-gray-800">
           <form action="" className="flex flex-col gap-6 dark:py-16">
-            <input type="text" placeholder="First name" name="firstName" required className="w-full dark:w-[90%] dark:mx-auto dark:drop-shadow text-xl px-4 py-3 rounded-lg shadow-lg bg-slate-800 dark:bg-white text-white outline-none dark:text-gray-500 focus:outline-none focus:shadow-outline"/>
-            <input type="text" placeholder="Last name" name="lastName" required className="w-full dark:w-[90%] dark:mx-auto dark:drop-shadow text-xl px-4 py-3 rounded-lg shadow-lg bg-slate-800 dark:bg-white text-white outline-none dark:text-gray-500 focus:outline-none focus:shadow-outline" />
-            <input type="text" placeholder="Email" name="email" required className="w-full dark:w-[90%] dark:mx-auto dark:drop-shadow text-xl px-4 py-3 rounded-lg shadow-lg bg-slate-800 dark:bg-white text-white dark:text-gray-500 outline-none focus:outline-none focus:shadow-outline" />
-            <textarea name="subject" id="" cols="6" rows="5" placeholder="Message" className="w-full text-xl dark:w-[90%] dark:mx-auto dark:drop-shadow px-4 py-3 rounded-lg shadow-lg bg-slate-800 dark:bg-white text-white outline-none dark:text-gray-500 focus:outline-none focus:shadow-outline"></textarea>
+            <input type="text" placeholder="First name" name="firstName" required className="w-full dark:w-[90%] dark:mx-auto dark:drop-shadow text-xl px-4 py-3 rounded-lg shadow-lg bg-white dark:bg-white text-gray-500 outline-none dark:text-gray-500 focus:outline-none focus:shadow-outline"/>
+            <input type="text" placeholder="Last name" name="lastName" required className="w-full dark:w-[90%] dark:mx-auto dark:drop-shadow text-xl px-4 py-3 rounded-lg shadow-lg bg-white dark:bg-white text-gray-500 outline-none dark:text-gray-500 focus:outline-none focus:shadow-outline" />
+            <input type="text" placeholder="Email" name="email" required className="w-full dark:w-[90%] dark:mx-auto dark:drop-shadow text-xl px-4 py-3 rounded-lg shadow-lg bg-white dark:bg-white text-gray-500 dark:text-gray-500 outline-none focus:outline-none focus:shadow-outline" />
+            <textarea name="subject" id="" cols="6" rows="5" placeholder="Message" className="w-full text-xl dark:w-[90%] dark:mx-auto dark:drop-shadow px-4 py-3 rounded-lg shadow-lg bg-white dark:bg-white text-gray-500 outline-none dark:text-gray-500 focus:outline-none focus:shadow-outline"></textarea>
             <div className="dark:px-7">
               <button className=" bg-gradient-to-r from-orange-300 to-violet-500 px-5 py-2 rounded-lg shadow-lg hover:shadow-xl hover:bg-gray-600 hover:text-white xxxs:text-sm xxs:text-lg xs:text-lg sm:text-lg ">
                 Send

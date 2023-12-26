@@ -5,6 +5,7 @@ import "./App.css";
 import Technology from "./components/technology/Technology";
 import About from "./components/about/About";
 import Contact from "./components/contact/Contact";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <About />
           <Contact />
         </div>
+        <Footer />
       </div>
     </>
   );

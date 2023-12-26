@@ -1,6 +1,6 @@
 const About = () => {
   return (
-    <section id="about" className="flex flex-row h-[25rem] md:flex-row md:mx-px xxxs:h-auto xxxs:flex-col-reverse xxs:h-auto xxs:flex-col-reverse xs:h-auto xs:flex-col-reverse justify-between xxxs:mx-auto xxxs:pl-1 xxs:mx-auto xxs:pl-1 xs:mx-auto sm:mx-auto xs:pl-1 sm:justify-between sm:items-center">
+    <section id="about" className="flex flex-row h-[25rem] mb-12 md:flex-row md:mx-px xxxs:h-auto xxxs:flex-col-reverse xxs:h-auto xxs:flex-col-reverse xs:h-auto xs:flex-col-reverse justify-between xxxs:mx-auto xxxs:pl-1 xxs:mx-auto xxs:pl-1 xs:mx-auto sm:mx-auto xs:pl-1 sm:justify-between sm:items-center">
       <div className="sm:w-2/3">
         <h2 className="title-dark project md:text-4xl lg:text-4xl xl:text-4xl">About me</h2>
         <p className="text-gray-900 dark:text-gray-600 my-4 text-lg md:text-2xl lg:text-xl">

@@ -1,8 +1,6 @@
 import { v4 as uuidv4 } from 'uuid';
 import TechnologyObjects from './technologyObjects';
 
-
-
 const Technology = () => {
   return (
     <section className="py-5" id="tech">

@@ -12,9 +12,9 @@ const Overlay = ({onResetHamburger}) => {
   return (
     <div
       id="menu"
-      className={`fixed z-50 top-0 left-0 w-full h-full flex items-center justify-center ${overlay ? 'block' : "hidden"}`}
+      className={`fixed z-50 top-0 left-0 w-full h-full flex justify-center ${overlay ? 'block' : "hidden"}`}
     >
-      <ul className={`flex w-[90%] h-[95%] flex-col mt-4 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-transparent dark:bg-gray-800 md:dark:bg-transparent dark:border-gray-700 ${overlay ? 'block' : "hidden"}`}>
+      <ul className={`flex w-full flex-col py-14 pl-8 mt-4 rounded-lg bg-gray-50 flex-row font-medium border-0 bg-gray-800 dark:border-gray-700 ${overlay ? 'block' : "hidden"}`}>
         <li>
           <a
             href="/#home"

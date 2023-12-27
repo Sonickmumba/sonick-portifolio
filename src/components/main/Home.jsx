@@ -6,8 +6,8 @@ import AnimatedSVG from "./AnimatedSVG";
 const Home = () => {
   return (
     <>
-      <div className="md:flex md:flex-row md:gap-4 md:justify-between">
-        <div className="top-section md:w-1/2" id="home">
+      <section className="md:flex md:flex-row md:gap-4 md:justify-between" id="home">
+        <div className="top-section md:w-1/2">
           <section className="introduction">
             <h2 className="my-name">It&apos;s me👋, </h2>
             <h2 className="my-name">Sonick Mumba</h2>
@@ -32,7 +32,7 @@ const Home = () => {
           </section>
         </div>
         <AnimatedSVG />
-      </div>
+      </section>
     </>
   );
 };

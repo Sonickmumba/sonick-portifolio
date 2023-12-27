@@ -10,11 +10,6 @@ const Menu = () => {
             </a>
           </li>
           <li className="hover:transition-all duration-200 ease transform hover:scale-110 hover:bg-slate-600 hover:rounded-full px-3 py-1">
-            <a href="/#about" rel="noopener noreferrer">
-              <span className="text-xl rounded-full text-white">About</span>
-            </a>
-          </li>
-          <li className="hover:transition-all duration-200 ease transform hover:scale-110 hover:bg-slate-600 hover:rounded-full px-3 py-1">
             <a href="/#projects" rel="noopener noreferrer">
               <span className="text-xl rounded-full text-white">Projects</span>
             </a>
@@ -22,6 +17,11 @@ const Menu = () => {
           <li className="hover:transition-all duration-200 ease transform hover:scale-110 hover:bg-slate-600 hover:rounded-full px-3 py-1">
             <a href="/#tech" rel="noopener noreferrer">
               <span className="text-xl rounded-full text-white">Technologies</span>
+            </a>
+          </li>
+          <li className="hover:transition-all duration-200 ease transform hover:scale-110 hover:bg-slate-600 hover:rounded-full px-3 py-1">
+            <a href="/#about" rel="noopener noreferrer">
+              <span className="text-xl rounded-full text-white">About</span>
             </a>
           </li>
           <li className="hover:transition-all duration-200 ease transform hover:scale-110 hover:bg-slate-600 hover:rounded-full px-3 py-1">

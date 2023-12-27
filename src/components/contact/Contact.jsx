@@ -4,7 +4,7 @@ const Contact = () => {
       <div className="flex md:flex-row justify-center items-center h-[40rem] dark:h-[50rem] gap-x-16 w-full dark:w-full xxxs:gap-y-10 mr-auto xxxs:flex-col xxxs:h-auto dark:xxxs:h-auto xxs:gap-y-10 xxs:flex-col xxs:h-auto xs:gap-y-10 xs:flex-col xs:h-auto">
         <div className="flex flex-col gap-4 w-[55%] xxxs:w-full xxs:w-full xs:w-full">
           <h2 className="title2-dark project md:text-4xl lg:text-4xl xl:text-4xl">Contact me</h2>
-          <h3 className="text-lg text-white dark:text-gray-600 lg:text-2xl">
+          <h3 className="text-lg text-gray-900 dark:text-gray-600 lg:text-2xl">
             Let&apos; get in touch
           </h3>
           <p className="text-lg text-gray-400 dark:text-gray-600 lg:text-xl">

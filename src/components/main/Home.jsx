@@ -8,7 +8,7 @@ const Home = () => {
     <>
       <section className="md:flex md:flex-row md:gap-4 md:justify-between" id="home">
         <div className="top-section md:w-1/2">
-          <section className="introduction">
+          <section className="introduction my-20">
             <h2 className="my-name">It&apos;s me👋, </h2>
             <h2 className="my-name">Sonick Mumba</h2>
             <h2 className="my-ability text-gray-400 text-2xl pb-4 text-balance animate__animated animate__slideInLeft animate__slow">

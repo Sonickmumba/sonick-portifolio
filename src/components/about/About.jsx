@@ -15,7 +15,7 @@ const About = () => {
           problems as well as learning new languages and technologies.
         </p>
         <div className="flex justify-start">
-          <a href="">
+          <a href="https://drive.google.com/file/d/1EZ_zZhqI3v09vAmdJys0G8I01wMjjFio/view?usp=share_link">
             <button className="bg-gradient-to-r from-violet-500 to-sky-500 px-10 xxxs:text-xl xxxs:px-5 xxs:text-xl xxs:px-5 xs:text-xl sm:text-xl xs:px-5 sm:px-5 py-2 rounded-[50px] shadow-lg hover:shadow-xl hover:bg-gray-600 hover:text-white transition-all duration-200 ease hover:bg-gradient-to-l ">
               View my CV
             </button>

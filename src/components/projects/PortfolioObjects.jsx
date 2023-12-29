@@ -9,7 +9,6 @@ const portfolioObjects = [
       'Web application based on an external API. We selected an API that provides data about Meals. One is able to like and comment on a meal.',
     liveUrl: 'https://megha-n-bodke.github.io/CapstoneProject2/dist/',
     sourceUrl: 'https://github.com/Sonickmumba/CapstoneProject2',
-    // image: 'https://github.com/Sonickmumba/sonick-portifolio/assets/106140591/d1164c4a-9ee2-47d1-bdce-6a5aad279530',
     image: 'https://res.cloudinary.com/djlpfihyu/image/upload/v1703835645/samples/breakfast.jpg',
   },
 
@@ -22,7 +21,6 @@ const portfolioObjects = [
       'Vesper application for all lovers of cars. Let your car make money for you by listing it on our platform so others can view and rent.',
     liveUrl: 'https://vesper-one.vercel.app/',
     sourceUrl: 'https://github.com/Sonickmumba/vesper-frontend',
-    // image: 'https://github.com/Sonickmumba/sonick-portifolio/assets/106140591/494236af-2188-43b1-9d23-6f2ed17dbf1d',
     image: 'https://res.cloudinary.com/djlpfihyu/image/upload/v1703836964/Vesper.jpeg_ohkg8z.png'
   },
 

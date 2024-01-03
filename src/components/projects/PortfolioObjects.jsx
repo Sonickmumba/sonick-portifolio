@@ -46,6 +46,28 @@ const portfolioObjects = [
     sourceUrl: 'https://github.com/Sonickmumba/Capstone-Project-1',
     image: 'https://res.cloudinary.com/djlpfihyu/image/upload/v1703836912/2022_ZAMSA_Conference.jpeg_gtahy0.png',
   },
+  {
+    id: 7,
+    projectTitle: 'project6',
+    projectTitleDesktop: 'Eat and Split',
+    tags: ['React','HTML', 'Es6', 'JavaScript'],
+    description:
+      'Eat and Split is a web application where Friends can split a bill after a meal. It shows how much one owes the other.More Friends can also be added to list.',
+    liveUrl: 'https://eatssplit-sonick.netlify.app/',
+    sourceUrl: 'https://github.com/Sonickmumba/eat-and-split',
+    image: 'https://res.cloudinary.com/djlpfihyu/image/upload/v1704281596/Eat_and_Split-full.jpeg_qyfctl.png',
+  },
+  {
+    id: 8,
+    projectTitle: 'project6',
+    projectTitleDesktop: 'Travel List',
+    tags: ['React','HTML', 'Es6', 'JavaScript'],
+    description:
+      'Travel list is a wev application where one can manage their travel items: have a list of items to be packed for a journey, so that one can not forget anything for the journey.',
+    liveUrl: 'https://chimerical-tiramisu-7bd6e3.netlify.app/',
+    sourceUrl: 'https://github.com/Sonickmumba/travel-list',
+    image: 'https://res.cloudinary.com/djlpfihyu/image/upload/v1704281596/Travel_list2.jpeg_fiynby.png',
+  },
 ];
 
 export default portfolioObjects;

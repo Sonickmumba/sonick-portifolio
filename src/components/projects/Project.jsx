@@ -22,8 +22,8 @@ const Project = () => {
               ))}
             </ul>
             <div className="flex justify-between text-lg py-4 xxxs:text-sm xxs:text-sm xs:text-sm sm:text-sm">
-              <a href={obj.liveUrl} className="bg-gradient-to-r from-orange-300 to-slate-500 px-4 xs:px-3 md:px-3 py-2 rounded-lg shadow-lg hover:shadow-xl hover:bg-gray-600 hover:text-white">Live demo</a>
-              <a href={obj.sourceUrl} className="bg-gradient-to-r from-orange-300 to-slate-500 px-4 md:px-3 py-2 rounded-lg shadow-lg hover:shadow-xl hover:bg-gray-600 hover:text-white">Source Code</a>
+              <a href={obj.liveUrl} rel="noreferrer" target="_blank" className="bg-gradient-to-r from-orange-300 to-slate-500 px-4 xs:px-3 md:px-3 py-2 rounded-lg shadow-lg hover:shadow-xl hover:bg-gray-600 hover:text-white">Live demo</a>
+              <a href={obj.sourceUrl} rel="noreferrer" target="_blank" className="bg-gradient-to-r from-orange-300 to-slate-500 px-4 md:px-3 py-2 rounded-lg shadow-lg hover:shadow-xl hover:bg-gray-600 hover:text-white">Source Code</a>
             </div>
           </div>
         </div>

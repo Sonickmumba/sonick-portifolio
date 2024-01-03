@@ -1,8 +1,8 @@
 const About = () => {
   return (
     <section
-      id="about"
       className="flex flex-row h-[25rem] mb-12 md:flex-row md:mx-px xxxs:h-auto xxxs:flex-col-reverse xxs:h-auto xxs:flex-col-reverse xs:h-auto xs:flex-col-reverse justify-between xxxs:mx-auto xxxs:pl-1 xxs:mx-auto xxs:pl-1 xs:mx-auto sm:mx-auto xs:pl-1 sm:justify-between sm:items-center"
+      id="about"
     >
       <div className="sm:w-2/3">
         <div className="w-16 h-2 rounded-full bg-gradient-to-r from-violet-500 to-sky-500 sm:mt-10 sm:ml-2 mb-8"></div>

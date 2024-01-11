@@ -1,7 +1,7 @@
 // import React from "react";
 import Menu from "./Menu";
 import ButtonPhoneSize from "./ButtonPhoneSize";
-import Socialmedia from "./socialmedia";
+import SocialMedia from "./SocialMedia";
 import HumburgerButton from "./HumburgerButton";
 import DarkMode from "./DarkMode";
 import Language from "./Language";
@@ -12,15 +12,11 @@ const Header = () => {
       <div className="xxxs:hidden xxs:hidden xs:hidden md:hidden lg:flex lg:ml-6 text-white row-start-1 row-end-2 col-start-1 col-end-2">
         Portfolio
       </div>
-
       <Menu />
       <HumburgerButton />
-      <Socialmedia />
-
+      <SocialMedia />
       <Language />
-
       <DarkMode />
-
       <ButtonPhoneSize />
     </header>
   );

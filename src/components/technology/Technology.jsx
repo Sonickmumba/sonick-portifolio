@@ -1,5 +1,5 @@
 import { v4 as uuidv4 } from 'uuid';
-import TechnologyObjects from './technologyObjects';
+import TechnologyObjects from './TechnologyObjects';
 
 const Technology = () => {
   return (

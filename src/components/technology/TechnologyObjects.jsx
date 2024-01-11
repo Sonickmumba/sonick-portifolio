@@ -39,7 +39,6 @@ const TechnologyObjects = [
       "Netlify",
       "Jest",
       "Moch",
-      "Chai",
       "Postman",
     ],
     viewBox: "0 0 512 512",

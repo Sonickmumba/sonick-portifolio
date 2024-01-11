@@ -33,7 +33,7 @@ const portfolioObjects = [
       'Single Page App for math calculations & reading random math related quotes, offering quick access to simple tools and resources',
     liveUrl: 'https://dancing-conkies-c08f95.netlify.app/',
     sourceUrl: 'https://github.com/Sonickmumba/math-magicians',
-    image: 'https://res.cloudinary.com/djlpfihyu/image/upload/v1703836893/MathMagician.jpeg_vt1b8a.png',
+    image: 'https://res.cloudinary.com/djlpfihyu/image/upload/v1705000128/Cal.jpeg_dvz0nl.png',
   },
   {
     id: 6,
@@ -44,7 +44,7 @@ const portfolioObjects = [
       'Zambia Mathematics Association Conference website with info on dates, speakers, tickets, location. Impact of Mathematics in a society.',
     liveUrl: 'https://sonickmumba.github.io/Capstone-Project-1/',
     sourceUrl: 'https://github.com/Sonickmumba/Capstone-Project-1',
-    image: 'https://res.cloudinary.com/djlpfihyu/image/upload/v1703836912/2022_ZAMSA_Conference.jpeg_gtahy0.png',
+    image: 'https://res.cloudinary.com/djlpfihyu/image/upload/v1704284002/2022_ZAMSA_Conference.jpeg_vpnh0v.png',
   },
   {
     id: 7,

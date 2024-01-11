@@ -2,7 +2,7 @@
 
 const Footer = () => {
   return (
-    <footer className='w-full flex items-center justify-center py-4 fixed bottom-0 bg-slate-900'>
+    <footer className='w-full flex items-center justify-center py-4 fixed bottom-0 bg-slate-900 left-0 right-0'>
       <h2 className="text-gray-400 text-lg text-center">
       © 2023 Sonick Mumba, All rights reserved
       </h2>

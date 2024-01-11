@@ -4,7 +4,7 @@ import ButtonPhoneSize from "./ButtonPhoneSize";
 import SocialMedia from "./SocialMedia";
 import HumburgerButton from "./HumburgerButton";
 import DarkMode from "./DarkMode";
-import Language from "./Language";
+// import Language from "./Language";
 
 const Header = () => {
   return (
@@ -15,7 +15,7 @@ const Header = () => {
       <Menu />
       <HumburgerButton />
       <SocialMedia />
-      <Language />
+      {/* <Language /> */}
       <DarkMode />
       <ButtonPhoneSize />
     </header>

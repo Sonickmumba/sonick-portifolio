@@ -19,7 +19,7 @@ const Home = () => {
               <button
                 type="button"
                 className="bg-gradient-to-r from-violet-500 to-sky-500 rounded-lg xxxs:px-5 xxxs:text-lg xxs:px-5 xxs:text-xl xs:px-5 sm:px-5 xs:text-xl sm:text-xl py-2 shadow-lg hover:shadow-xl hover:bg-gray-600 hover:text-white transition-all duration-200 ease hover:bg-gradient-to-l "
-                id="about"
+                
               >
                 <a href="/#contact">Hire me</a>
               </button>

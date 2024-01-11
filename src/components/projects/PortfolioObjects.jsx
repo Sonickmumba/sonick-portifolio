@@ -9,7 +9,7 @@ const portfolioObjects = [
       'Web application based on an external API. We selected an API that provides data about Meals. One is able to like and comment on a meal.',
     liveUrl: 'https://megha-n-bodke.github.io/CapstoneProject2/dist/',
     sourceUrl: 'https://github.com/Sonickmumba/CapstoneProject2',
-    image: 'https://res.cloudinary.com/djlpfihyu/image/upload/v1703835645/samples/breakfast.jpg',
+    image: 'https://res.cloudinary.com/djlpfihyu/image/upload/v1703835619/samples/food/dessert.jpg',
   },
 
   {

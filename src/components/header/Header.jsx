@@ -1,7 +1,7 @@
 // import React from "react";
 import Menu from "./Menu";
 import ButtonPhoneSize from "./ButtonPhoneSize";
-import Socialmedia from "./SocialMedia";
+import Socialmedia from "./Socialmedia";
 import HumburgerButton from "./HumburgerButton";
 import DarkMode from "./DarkMode";
 // import Language from "./Language";

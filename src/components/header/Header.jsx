@@ -1,7 +1,7 @@
 // import React from "react";
 import Menu from "./Menu";
 import ButtonPhoneSize from "./ButtonPhoneSize";
-import SocialMedia from "./SocialMedia";
+import Socialmedia from "./SocialMedia";
 import HumburgerButton from "./HumburgerButton";
 import DarkMode from "./DarkMode";
 // import Language from "./Language";
@@ -14,7 +14,7 @@ const Header = () => {
       </div>
       <Menu />
       <HumburgerButton />
-      <SocialMedia />
+      <Socialmedia />
       {/* <Language /> */}
       <DarkMode />
       <ButtonPhoneSize />

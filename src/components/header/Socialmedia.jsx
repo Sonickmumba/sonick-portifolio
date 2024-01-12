@@ -1,6 +1,6 @@
 // import React from "react";
 
-const SocialMedia = () => {
+const Socialmedia = () => {
 
   return (
     <div className="xxxs:hidden xxs:hidden xs:hidden sm:hidden md:block lg:block xl:block row-start-1 row-end-2 md:mr-[50px] col-start-5 col-end-6 xxxs:col-start-2 xxxs:col-end-6 xxs:col-start-2 xxs:col-end-6 xs:col-start-2 xs:col-end-6">
@@ -76,4 +76,4 @@ const SocialMedia = () => {
   );
 };
 
-export default SocialMedia;
+export default Socialmedia;

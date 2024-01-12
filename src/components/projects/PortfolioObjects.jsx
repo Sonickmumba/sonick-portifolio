@@ -20,7 +20,7 @@ const portfolioObjects = [
     description:
       'Vesper application for all lovers of cars. Let your car make money for you by listing it on our platform so others can view and rent.',
     liveUrl: 'https://vesper-one.vercel.app/',
-    sourceUrl: 'https://github.com/Shisui6/vesper-frontend',
+    sourceUrl: 'https://github.com/Sonickmumba/vesper-frontend',
     image: 'https://res.cloudinary.com/djlpfihyu/image/upload/v1704283671/Vesper.jpeg_ncfe6r.png'
   },
 

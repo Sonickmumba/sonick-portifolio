@@ -15,10 +15,13 @@ const About = () => {
           assist you with your next project.
         </p>
         <p className="text-lg pb-14 text-gray-400 max-w-2xl dark:text-gray-600 md:text-xl lg:text-xl">
-          I&apos;m Sonick Mumba, a software developer specializing in various
-          technologies. I create web applications, mobile apps, and visually
-          appealing websites for businesses. I enjoy delving into difficult
-          problems as well as learning new languages and technologies.
+          I&apos;m Sonick Mumba, a full stack developer with a robust
+          background in creating efficient software applications for the global
+          market. With over 1300+ hours of hands-on experience, i have
+          demonstrated leadership by mentoring 10+ junior developers and collaborated with developers from diverse
+          countries, contributing more than eight hours daily to various
+          projects. Strong skills include React, Redux, JavaScript, Ruby on
+          Rails, Figma, and animation libraries.
         </p>
         <div className="flex justify-start">
           <a

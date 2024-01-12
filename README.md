@@ -12,7 +12,7 @@
 
 ## Live Demo (available)
 
-[Live Demo Link](sonick-portfolio.netlify.app)
+[Live Demo Link](https://sonick-portfolio.netlify.app)
 
 
 ### Prerequisites
